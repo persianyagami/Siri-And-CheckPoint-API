@@ -1,6 +1,6 @@
 This is a fun side project to play with Siri Shortcuts and Check Point API. I'll add more shortcuts for more functions as I build them so check back or follow the repository.
 
-##How to Use##
+##How to Use
 - Requires iOS 12 and the Shortcuts app from the app store.
 
 - Install the Shortcut here to the shortcut application
